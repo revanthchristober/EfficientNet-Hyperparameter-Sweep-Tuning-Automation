@@ -1,0 +1,12 @@
+data:
+  raw: 'data/raw'
+  processed: 'data/processed'
+results:
+  logs: 'results/logs/'
+  models: 'results/models/'
+  metrics: 'results/metrics/'
+hyperparameters:
+  learning_rate: 0.001
+  batch_size: 64
+  num_epochs: 10
+  num_classes: 10
