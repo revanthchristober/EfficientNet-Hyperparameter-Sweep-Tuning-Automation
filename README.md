@@ -1,4 +1,4 @@
-# **EfficientNet Hyperparameter Tuning Framework**
+# **EfficientNet Hyperparameter Sweep Tuning Automation**
 
 ## **Overview**
 
